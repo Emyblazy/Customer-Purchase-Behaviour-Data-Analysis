@@ -35,5 +35,5 @@ I analyzed customer purchase behaviour across 3,900+ e-commerce customers to unc
 -	Increase the effectiveness of promotional strategies by encouraging discount and promo code adoption, particularly to drive repeat purchases and improve customer engagement.
 
 ## Power-Bi Dashboad
-<a href = "https://github.com/user-attachments/assets/1a58c03c-3d4a-4bdc-8e7d-ca915f24a2a1" img width="855" height="478" alt="image">Customer Purchase Behaviour Dashboard </a> 
+Click the link to view a screenshot of the <a href = "https://github.com/user-attachments/assets/1a58c03c-3d4a-4bdc-8e7d-ca915f24a2a1" img width="855" height="478" alt="image">Customer Purchase Behaviour Dashboard </a> 
 
