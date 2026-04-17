@@ -3,22 +3,16 @@
 I analyzed customer purchase behaviour across 3,900+ e-commerce customers to uncover insights on key revenue drivers, customer segments, and product performance trends. Leveraged SQL and Ms Excel for data exploration and analysis to generate actionable insights. Additionally, Power Bi tool helped to develop a dashboard depicting the insights discovered.
 
 ## KPI Questions
-1. Who are our most valuable customers?
+
 -	What is the Age group and Gender distribution? 
 -	Which age group and gender spends the most? 
 -	Who are our repeat/high-frequency buyers?
-
-2. What products drive the most revenue?
 -	Which categories generate the highest sales? 
 -	What product attributes (size, color) are most popular? 
 -	Are there seasonal trends affecting sales performance? 
-
-3. How do customers purchase?
 -	What is the average purchase amount? 
 -	How often do customers buy (frequency)? 
 -	What payment methods are most used? 
-	
-4. What impact do discounts and promo codes have?
 -	Does offering discounts significantly increase purchase frequency or amount? 
 -	Are promo users more valuable or just one-time buyers?
 
